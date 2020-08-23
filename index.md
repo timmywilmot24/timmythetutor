@@ -4,7 +4,7 @@
         <title>Timmy the Tutor</title>
     </head>
     <body id="root" class="page">
-        <link rel="stylesheet" type = "text/css" href = "website.css"></link>
+        <link rel="stylesheet" type = "text/css" href = "website.css">
         <h1 id="title">Timmy the Tutor</h1>
             <div>
                 <a class="mainButtons" href="index.html">Home</a>
